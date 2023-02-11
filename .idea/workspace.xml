@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a5e099d-2237-4146-9f08-ba01525cb0f8" name="Changes" comment="4 test added">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data.scv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1a5e099d-2237-4146-9f08-ba01525cb0f8" name="Changes" comment="Tests parameterized" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,13 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675383402631</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tests parameterized">
+      <created>1676127562120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676127562120</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="4 test added" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 test added" />
+    <MESSAGE value="Tests parameterized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests parameterized" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

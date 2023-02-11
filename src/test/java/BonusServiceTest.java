@@ -4,7 +4,7 @@ import org.junit.jupiter.params.provider.CsvFileSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class BonusServiceTest {
-    @CsvFileSource(files="src/test/resources/data.scv")
+    @CsvFileSource(resources = "/data.scv")
 
     @ParameterizedTest
     void shouldCalculateForRegisteredAndUnderLimit(long amount, boolean registered, long expected) {
